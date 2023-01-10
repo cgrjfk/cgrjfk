@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @cgrjfk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-cgrjfk/cgrjfk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello,I am a student of ShanDong agriculture university.
+My name is Chen, I wanna try something new and doing somthing cool.
+If we are interested in the same thing ,then we can communicate in English or Chinese 
+And anyway，nice to meet you ,take care of youself and be well!!!
